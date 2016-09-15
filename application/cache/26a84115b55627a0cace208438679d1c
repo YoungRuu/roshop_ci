@@ -1,0 +1,1031 @@
+a:2:{s:6:"expire";i:1472491041;s:7:"headers";a:0:{}}ENDCI---><!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>Trang Chủ</title>
+    <meta name="description" content="MAZA">
+    <meta name="keywords" content="MAZA"/>
+    <!-- Block CSS Page -->
+    <link rel="stylesheet" type="text/css" href="http://roshop.com/library_add/home/static/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="http://roshop.com/library_add/home/static/css/maza.css">
+<link rel="stylesheet" type="text/css" href="http://roshop.com/library_add/home/static/css/jquery.notifyBar.css">
+<link rel="stylesheet" type="text/css" href="http://roshop.com/library_add/home/static/css/datepicker.css">
+<link rel="stylesheet" type="text/css" href="http://roshop.com/library_add/home/static/css/jquery-confirm.css">
+<link rel="stylesheet" type="text/css" href="http://roshop.com/library_add/home/static/css/jquery-ui.css">
+<link rel="stylesheet" type="text/css" href="http://roshop.com/library_add/home/static/css/jquery.comiseo.daterangepicker.css">
+<link rel="stylesheet" type="text/css" href="http://roshop.com/library_add/home/static/css/custom.css">
+<link rel="stylesheet" type="text/css" href="http://roshop.com/library_add/home/static/zoom/magnifier.css">    
+  </head>
+  <body>
+    <div id="fb-root">
+    </div>
+    <header id="header" class="header">
+  <div class="line-block">
+  </div>
+  <div class="tophead">
+    <div class="container">
+      <h1 class="logo">
+        <a href="/">
+          <img src="http://roshop.com/library_add/home/static/images/logo/logo.png">
+        </a>
+      </h1>
+      <div class="rb">
+        <ul>
+          <li class="shopping-cart-menu shopping-cart ">
+            <a class="cart-shopping-box" href="http://roshop.com/thong-tin-gio-hang">
+              <div class="shoppingcart-btn">
+                <span class="num num-item">0                </span>
+              </div>
+              Giỏ hàng                      
+            </a>
+            <div class="cart-shopping-dropdown">
+              <div class="item-list-s2">
+                <div class="description-scroll">
+                    <div class="scrollbar disable" style="height: 422px;">
+                      <div class="track" style="height: 422px;">
+                        <div class="thumb" style="top: 0px; height: 422px;">
+                          <div class="end">
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="viewport">
+                      <div class="overview" style="top: 0px;">
+                        <ul class="cart-item-list clearfix cart-product on-header">  
+                                                  </ul>
+                      </div>
+                    </div>
+                  </div>
+
+              </div>
+              <div class="sum-price-box">
+                <p class="lb">Tổng
+                </p>
+                <p class="price">0đ
+                </p>
+              </div>
+              <div class="clearfix">
+              </div>
+              <div class="btn-row btn-row-full">
+                <!-- <p><a class="btn" href="/checkout">Giỏ hàng</a></p> -->
+                <p>
+                  <a class="btn s2" href="http://roshop.com/thong-tin-gio-hang">Đặt hàng
+                  </a>
+                </p>
+              </div>
+            </div>
+          </li>
+          <li class="login">
+                          <a href="#" class="login-lnk">Đăng nhập</a>
+              <div class="login-box-dropdown">
+               <div class="welcome"> Chào mừng đến với Roshop.vn</div>
+                  <div class="frm-box">
+                    <form action="http://roshop.com/dang-nhap" method="post">
+                      <div class="frm-row">
+                        <input class="frm-txt" type="text" name="username" placeholder="Tài khoản">
+                      </div>
+                      <div class="frm-row">
+                        <input class="frm-txt" type="password" name="password" placeholder="Mật khẩu">
+                      </div>
+                      <div class="btn-row clearfix">
+                        <div class="lnk">
+                          <a href="/quen-mat-khau">Quên mật khẩu
+                          </a>
+                        </div>
+                        <div class="btn">
+                          <input class="login-btn" type="submit" value="Đăng nhập">
+                        </div>
+                      </div>
+                    </form>
+                  </div> 
+                  <div class="lnk-row">
+                    <span>Chưa có tài khoản?
+                    </span>
+                    <a href="/khach-hang/dang-ky">Đăng kí
+                    </a>
+                  </div>
+                </div>
+                      </li>
+        </ul>
+        <div class="phone">
+          <p class="txt1">08 6254 9999
+          </p>
+          <p class="txt2">t2-t7 / 8:00 - 18:00
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="mainhead">
+  <div class="container">
+    <ul class="topmenu active-topmenu">
+      <li>
+        <a href="http://roshop.com/" class="">Trang chủ</a>
+      </li>
+                      <li>
+          <a href="http://roshop.com/thoi-trang-nu" class="">Thời Trang Nữ</a>
+          <div class="menu-dropdown">
+            <div class="mdd-box">
+              <div class="sub-menu">
+                <ul class="sub-menu-2">
+                                                                                                                                                                            <li >
+                      <a href="http://roshop.com/ao-khoac-nu"> Áo Khoác Nữ                      </a>
+                    </li>
+                                                                              <li >
+                      <a href="http://roshop.com/ao-so-mi-nu"> Áo Sơ Mi Nữ                      </a>
+                    </li>
+                                                                              <li >
+                      <a href="http://roshop.com/ao-thun-nu"> Áo Thun Nữ                      </a>
+                    </li>
+                                                                              <li >
+                      <a href="http://roshop.com/vay-dam"> Váy Đầm                      </a>
+                    </li>
+                                                                              <li >
+                      <a href="http://roshop.com/quan-dai-nu"> Quần Dài Nữ                      </a>
+                    </li>
+                                                                              <li >
+                      <a href="http://roshop.com/quan-short-nu"> Quần Short Nữ                      </a>
+                    </li>
+                                                                                                                                                                                                                                      <li >
+                      <a href="http://roshop.com/ao-kieu-nu"> Áo Kiểu Nữ                      </a>
+                    </li>
+                                                      </ul>
+              </div>
+              <div class="product-list-menu">
+                <div class="pl-row clearfix">
+                  <h2>Bán Chạy
+                  </h2>
+                  <a href="thoi-trang-nam/thoi-trang-nam.html">Xem tất cả
+                  </a>
+                </div>
+                <ul class="clearfix">
+                                                        <li>
+                      <p class="pic">
+                        <a href="http://roshop.com/ao-so-mi-nu/ao-so-mi-nu-ke-soc-de-thuong-12 ">
+                                                      <img src="http://roshop.com/uploads/thumb/thumb300x400_147059759600_ao-so-mi-nu-ke-soc-de-thuong.jpg ">
+                                                    </a>
+                      </p>
+                      <div class="detail">
+                        <h2>
+                          <a href="http://roshop.com/ao-so-mi-nu/ao-so-mi-nu-ke-soc-de-thuong-12 ">Áo Sơ Mi Nữ Kẻ Sọc Dễ Thương                          </a>
+                        </h2>
+                        <div class="price-block clearfix">
+                          <p class="price">365,000đ
+                          </p>
+                        </div>
+                      </div>
+                    </li>
+                                        <li>
+                      <p class="pic">
+                        <a href="http://roshop.com/vay-dam/chan-vay-phoi-day-rut-thoi-trang-10 ">
+                                                      <img src="http://roshop.com/uploads/thumb/thumb300x400_147058661700_chan-vay-phoi-day-rut-thoi-trang.jpg ">
+                                                    </a>
+                      </p>
+                      <div class="detail">
+                        <h2>
+                          <a href="http://roshop.com/vay-dam/chan-vay-phoi-day-rut-thoi-trang-10 ">Chân Váy Phối Dây Rút Thời Trang                          </a>
+                        </h2>
+                        <div class="price-block clearfix">
+                          <p class="price">270,000đ
+                          </p>
+                        </div>
+                      </div>
+                    </li>
+                                        <li>
+                      <p class="pic">
+                        <a href="http://roshop.com/ao-kieu-nu/ao-croptop-ren-2-day-26 ">
+                                                      <img src="http://roshop.com/uploads/thumb/thumb300x400_147082289500_ao-croptop-ren-2-day.jpg ">
+                                                    </a>
+                      </p>
+                      <div class="detail">
+                        <h2>
+                          <a href="http://roshop.com/ao-kieu-nu/ao-croptop-ren-2-day-26 ">Áo croptop ren 2 dây                          </a>
+                        </h2>
+                        <div class="price-block clearfix">
+                          <p class="price">249,000đ
+                          </p>
+                        </div>
+                      </div>
+                    </li>
+                                        <li>
+                      <p class="pic">
+                        <a href="http://roshop.com/ao-khoac-nu/ao-khoac-blazer-dai-phoi-soc-thoi-trang-17 ">
+                                                      <img src="http://roshop.com/uploads/thumb/thumb300x400_147060128300_ao-khoac-blazer-dai-phoi-soc-thoi-trang.jpg      ">
+                                                    </a>
+                      </p>
+                      <div class="detail">
+                        <h2>
+                          <a href="http://roshop.com/ao-khoac-nu/ao-khoac-blazer-dai-phoi-soc-thoi-trang-17 ">Áo Khoác Blazer Dài Phối Sọc Thời Trang                          </a>
+                        </h2>
+                        <div class="price-block clearfix">
+                          <p class="price">670,000đ
+                          </p>
+                        </div>
+                      </div>
+                    </li>
+                                        <li>
+                      <p class="pic">
+                        <a href="http://roshop.com/ao-khoac-nu/ao-khoac-form-dai-phoi-caro-28 ">
+                                                      <img src="http://roshop.com/uploads/thumb/thumb300x400_147082309600_ao-khoac-form-dai-phoi-caro.jpg ">
+                                                    </a>
+                      </p>
+                      <div class="detail">
+                        <h2>
+                          <a href="http://roshop.com/ao-khoac-nu/ao-khoac-form-dai-phoi-caro-28 ">Áo Khoác Form Dài Phối Caro                          </a>
+                        </h2>
+                        <div class="price-block clearfix">
+                          <p class="price">249,000đ
+                          </p>
+                        </div>
+                      </div>
+                    </li>
+                                                      </ul>
+              </div>
+            </div>
+          </div>
+        </li>
+                              <li>
+          <a href="http://roshop.com/thoi-trang-nam" class="">Thời Trang Nam</a>
+          <div class="menu-dropdown">
+            <div class="mdd-box">
+              <div class="sub-menu">
+                <ul class="sub-menu-2">
+                                                                                                                                      <li >
+                      <a href="http://roshop.com/ao-khoac-nam"> Áo Khoác Nam                      </a>
+                    </li>
+                                                                                                                                                                                                                                                                                                                  <li >
+                      <a href="http://roshop.com/ao-thun-nam"> Áo Thun Nam                      </a>
+                    </li>
+                                                                              <li >
+                      <a href="http://roshop.com/ao-so-mi-nam"> Áo Sơ Mi Nam                      </a>
+                    </li>
+                                                                              <li >
+                      <a href="http://roshop.com/quan-short-nam"> Quần Short Nam                      </a>
+                    </li>
+                                                                              <li >
+                      <a href="http://roshop.com/quan-dai-nam"> Quần Dài Nam                      </a>
+                    </li>
+                                                                                            </ul>
+              </div>
+              <div class="product-list-menu">
+                <div class="pl-row clearfix">
+                  <h2>Bán Chạy
+                  </h2>
+                  <a href="thoi-trang-nam/thoi-trang-nam.html">Xem tất cả
+                  </a>
+                </div>
+                <ul class="clearfix">
+                                                        <li>
+                      <p class="pic">
+                        <a href="http://roshop.com/ao-thun-nam/ao-thun-3-lo-nam-in-chu-thoi-trang-8 ">
+                                                      <img src="http://roshop.com/uploads/thumb/thumb300x400_147058447600_ao-thun-3-lo-nam-in-chu-thoi-trang.jpg   ">
+                                                    </a>
+                      </p>
+                      <div class="detail">
+                        <h2>
+                          <a href="http://roshop.com/ao-thun-nam/ao-thun-3-lo-nam-in-chu-thoi-trang-8 ">Áo Thun 3 Lỗ Nam In Chữ Thời Trang                          </a>
+                        </h2>
+                        <div class="price-block clearfix">
+                          <p class="price">230,000đ
+                          </p>
+                        </div>
+                      </div>
+                    </li>
+                                        <li>
+                      <p class="pic">
+                        <a href="http://roshop.com/quan-short-nam/quan-short-nam-phoi-mau-thoi-trang-11 ">
+                                                      <img src="http://roshop.com/uploads/thumb/thumb300x400_147058679900_quan-short-nam-phoi-mau-thoi-trang.jpg     ">
+                                                    </a>
+                      </p>
+                      <div class="detail">
+                        <h2>
+                          <a href="http://roshop.com/quan-short-nam/quan-short-nam-phoi-mau-thoi-trang-11 ">Quần Short Nam Phối Màu Thời Trang                          </a>
+                        </h2>
+                        <div class="price-block clearfix">
+                          <p class="price">200,000đ
+                          </p>
+                        </div>
+                      </div>
+                    </li>
+                                        <li>
+                      <p class="pic">
+                        <a href="http://roshop.com/ao-so-mi-nam/ao-so-mi-nam-hoa-tiet-caro-9 ">
+                                                      <img src="http://roshop.com/uploads/thumb/thumb300x400_147058528600_ao-so-mi-nam-hoa-tiet-caro.jpg ">
+                                                    </a>
+                      </p>
+                      <div class="detail">
+                        <h2>
+                          <a href="http://roshop.com/ao-so-mi-nam/ao-so-mi-nam-hoa-tiet-caro-9 ">Áo Sơ Mi Nam Họa Tiết Caro                          </a>
+                        </h2>
+                        <div class="price-block clearfix">
+                          <p class="price">300,000đ
+                          </p>
+                        </div>
+                      </div>
+                    </li>
+                                        <li>
+                      <p class="pic">
+                        <a href="http://roshop.com/ao-khoac-nam/ao-khoac-jean-nam-rach-20 ">
+                                                      <img src="http://roshop.com/uploads/thumb/thumb300x400_147082217300_ao-khoac-jean-nam-rach.jpg">
+                                                    </a>
+                      </p>
+                      <div class="detail">
+                        <h2>
+                          <a href="http://roshop.com/ao-khoac-nam/ao-khoac-jean-nam-rach-20 ">Áo Khoác Jean Nam Rách                          </a>
+                        </h2>
+                        <div class="price-block clearfix">
+                          <p class="price">529,000đ
+                          </p>
+                        </div>
+                      </div>
+                    </li>
+                                        <li>
+                      <p class="pic">
+                        <a href="http://roshop.com/ao-thun-nam/ao-thun-nam-tron-tay-dai-15 ">
+                                                      <img src="http://roshop.com/uploads/thumb/thumb300x400_147060098200_ao-thun-nam-tron-tay-dai.JPG">
+                                                    </a>
+                      </p>
+                      <div class="detail">
+                        <h2>
+                          <a href="http://roshop.com/ao-thun-nam/ao-thun-nam-tron-tay-dai-15 ">Áo Thun Nam Trơn Tay Dài                          </a>
+                        </h2>
+                        <div class="price-block clearfix">
+                          <p class="price">125,000đ
+                          </p>
+                        </div>
+                      </div>
+                    </li>
+                                                      </ul>
+              </div>
+            </div>
+          </div>
+        </li>
+                                                                                                                                                                                             <!-- <li>
+        <a href="thoi-trang-nu/thoi-trang-nu.html" class="">Nữ</a>
+        <div class="menu-dropdown">
+          <div class="mdd-box">
+            <div class="sub-menu">
+              <ul class="sub-menu-2">
+                <li >
+                  <a href="/ao-khoac-nu/">Áo Khoác Nữ
+                  </a>
+                </li>
+                <li >
+                  <a href="/ao-kieu-nu/">Áo Kiểu Nữ
+                  </a>
+                </ul>
+              </div>
+              <div class="product-list-menu">
+                <div class="pl-row clearfix">
+                  <h2>Bán Chạy
+                  </h2>
+                  <a href="thoi-trang-nu/thoi-trang-nu.html">Xem tất cả
+                  </a>
+                </div>
+                <ul class="clearfix">
+                  <li>
+                    <p class="pic">
+                      <a href="/vay-dam/dam-xoe-cup-nguc-phoi-soc-thoi-trang-25.html">
+                        <img src="http://roshop.com//library_add/home/image/img_product/product_1.jpg">
+                      </a>
+                    </p>
+                    <div class="detail">
+                      <h2>
+                        <a href="/vay-dam/dam-xoe-cup-nguc-phoi-soc-thoi-trang-25.html">Đầm Xòe Cúp Ngực Phối Sọc Thời Trang
+                        </a>
+                      </h2>
+                      <div class="price-block clearfix">
+                        <p class="price">369,000đ
+                        </p>
+                        <p class="old-price">269.000<sup>đ</sup></p>
+                      </div>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+      </li> -->
+      <li>
+        <a href="http://roshop.com/san-pham-moi" class="new">Hàng mới</a>
+      </li>
+      <li>
+        <a href="http://roshop.com/khuyen-mai" class="safe-off">Khuyến mãi</a>
+      </li>
+    </ul>
+    <div class="search-box">
+      <form action="/tim-kiem-san-pham" method="get">
+        <input type="text" name="key" value="" placeholder="Tìm kiếm">
+      </form>
+    </div>
+  </div>
+</div>
+<!-- /mainhead</header>
+<!-- /header --> 
+    <section class="wrapper">
+      <div class="container">
+        <ul class="step-buying clearfix">
+  <li class="step1">Chọn hàng online
+  </li>
+  <li class="step2">Giao hàng trong 24h
+  </li>
+  <li class="step3">Thanh toán tiện lợi
+  </li>
+  <li class="step4">Đổi trả 7 ngày
+  </li>
+</ul>
+<!-- /step-buying -->
+<div class="banner-group clearfix">
+  <div class="box1">
+    <a href="/opening">
+      <img src="http://roshop.com/library_add/home/image/Banner/635x360_v3png.png">
+    </a>
+  </div>
+  <div class="box2">
+    <div class="box01">
+      <a href="http://roshop.com/thoi-trang-nam">
+        <img src="http://roshop.com/library_add/home/image/Banner/315x175_v2.png">
+      </a>
+    </div>
+    <div class="box02">
+      <a href="http://roshop.com/thoi-trang-nu">
+        <img src="http://roshop.com/library_add/home/image/Banner/315x175%20new.png">
+      </a>
+    </div>
+  </div>
+</div>
+<!-- /banner-group -->
+<h2 class="title-block red">
+  <a href="www_maza_default.html#">Sản phẩm hot
+  </a>
+</h2>
+<div class="item-list">
+  <ul class="clearfix lp" data-list="Hot Product">
+          <li data-product_id="11" class="col-xs-6 col-sm-3 col-md-3 col-lg-3">
+        <p class="pic">
+          <a href="http://roshop.com/quan-short-nam/quan-short-nam-phoi-mau-thoi-trang-11 ">
+                          <img src="http://roshop.com/uploads/thumb/thumb300x400_147058679900_quan-short-nam-phoi-mau-thoi-trang.jpg     ">
+                        </a>
+        </p>
+        <div class="desc clearfix">
+          <p class="title">
+            <a href="http://roshop.com/quan-short-nam/quan-short-nam-phoi-mau-thoi-trang-11 ">Quần Short Nam Phối Màu Thời Trang            </a>
+          </p>
+          <div class="price-block clearfix">
+            <p class="price">
+            200,000đ
+            </p) >
+          </div>
+        </div>
+      </li>
+          <li data-product_id="10" class="col-xs-6 col-sm-3 col-md-3 col-lg-3">
+        <p class="pic">
+          <a href="http://roshop.com/vay-dam/chan-vay-phoi-day-rut-thoi-trang-10 ">
+                          <img src="http://roshop.com/uploads/thumb/thumb300x400_147058661700_chan-vay-phoi-day-rut-thoi-trang.jpg ">
+                        </a>
+        </p>
+        <div class="desc clearfix">
+          <p class="title">
+            <a href="http://roshop.com/vay-dam/chan-vay-phoi-day-rut-thoi-trang-10 ">Chân Váy Phối Dây Rút Thời Trang            </a>
+          </p>
+          <div class="price-block clearfix">
+            <p class="price">
+            270,000đ
+            </p) >
+          </div>
+        </div>
+      </li>
+          <li data-product_id="9" class="col-xs-6 col-sm-3 col-md-3 col-lg-3">
+        <p class="pic">
+          <a href="http://roshop.com/ao-so-mi-nam/ao-so-mi-nam-hoa-tiet-caro-9 ">
+                          <img src="http://roshop.com/uploads/thumb/thumb300x400_147058528600_ao-so-mi-nam-hoa-tiet-caro.jpg ">
+                        </a>
+        </p>
+        <div class="desc clearfix">
+          <p class="title">
+            <a href="http://roshop.com/ao-so-mi-nam/ao-so-mi-nam-hoa-tiet-caro-9 ">Áo Sơ Mi Nam Họa Tiết Caro            </a>
+          </p>
+          <div class="price-block clearfix">
+            <p class="price">
+            300,000đ
+            </p) >
+          </div>
+        </div>
+      </li>
+          <li data-product_id="8" class="col-xs-6 col-sm-3 col-md-3 col-lg-3">
+        <p class="pic">
+          <a href="http://roshop.com/ao-thun-nam/ao-thun-3-lo-nam-in-chu-thoi-trang-8 ">
+                          <img src="http://roshop.com/uploads/thumb/thumb300x400_147058447600_ao-thun-3-lo-nam-in-chu-thoi-trang.jpg   ">
+                        </a>
+        </p>
+        <div class="desc clearfix">
+          <p class="title">
+            <a href="http://roshop.com/ao-thun-nam/ao-thun-3-lo-nam-in-chu-thoi-trang-8 ">Áo Thun 3 Lỗ Nam In Chữ Thời Trang            </a>
+          </p>
+          <div class="price-block clearfix">
+            <p class="price">
+            230,000đ
+            </p) >
+          </div>
+        </div>
+      </li>
+      </ul>
+</div>
+<!-- /item-list -->
+<h2 class="title-block blue">
+  <a href="#">Thời Trang Nam
+  </a>
+</h2>
+<div class="item-list">
+  <ul class="clearfix lp" data-list="home category 1">
+        <li data-product_id="34" class="col-xs-6 col-sm-3 col-md-3 col-lg-3">
+      <p class="pic">
+                  <a href="/quan-short-nam/quan-short-jean-rach-thoi-trang-34 ">
+            <img src="http://roshop.com/uploads/thumb/thumb300x400_147161280900_quan-short-jean-rach-thoi-trang.jpg ">
+          </a>
+                </p>
+      <div class="desc clearfix">
+        <p class="title">
+          <a href="/quan-short-nam/quan-short-jean-rach-thoi-trang-34 ">Quần Short Jean Rách Thời Trang          </a>
+        </p>
+        <div class="price-block clearfix">
+          <p class="price">355,000đ
+          </p>
+        </div>
+      </div>
+    </li>
+        <li data-product_id="24" class="col-xs-6 col-sm-3 col-md-3 col-lg-3">
+      <p class="pic">
+                  <a href="/ao-thun-nam/ao-thun-nam-co-tru-xanh-da-troi-24 ">
+            <img src="http://roshop.com/uploads/thumb/thumb300x400_147082266800_ao-thun-nam-co-tru-xanh-da-troi.jpg">
+          </a>
+                </p>
+      <div class="desc clearfix">
+        <p class="title">
+          <a href="/ao-thun-nam/ao-thun-nam-co-tru-xanh-da-troi-24 ">Áo Thun Nam Cổ Trụ Xanh Da Trời          </a>
+        </p>
+        <div class="price-block clearfix">
+          <p class="price">180,000đ
+          </p>
+        </div>
+      </div>
+    </li>
+        <li data-product_id="23" class="col-xs-6 col-sm-3 col-md-3 col-lg-3">
+      <p class="pic">
+                  <a href="/ao-so-mi-nam/ao-so-mi-nam-co-tru-tay-ngan-23 ">
+            <img src="http://roshop.com/uploads/thumb/thumb300x400_147082253700_ao-so-mi-nam-co-tru-tay-ngan.jpg">
+          </a>
+                </p>
+      <div class="desc clearfix">
+        <p class="title">
+          <a href="/ao-so-mi-nam/ao-so-mi-nam-co-tru-tay-ngan-23 ">Áo Sơ Mi Nam Cổ Trụ Tay Ngắn          </a>
+        </p>
+        <div class="price-block clearfix">
+          <p class="price">290,000đ
+          </p>
+        </div>
+      </div>
+    </li>
+        <li data-product_id="22" class="col-xs-6 col-sm-3 col-md-3 col-lg-3">
+      <p class="pic">
+                  <a href="/ao-so-mi-nam/ao-so-mi-nam-caro-22 ">
+            <img src="http://roshop.com/uploads/thumb/thumb300x400_147082241200_ao-so-mi-nam-caro.jpg">
+          </a>
+                </p>
+      <div class="desc clearfix">
+        <p class="title">
+          <a href="/ao-so-mi-nam/ao-so-mi-nam-caro-22 ">Áo Sơ Mi Nam Caro          </a>
+        </p>
+        <div class="price-block clearfix">
+          <p class="price">275,000đ
+          </p>
+        </div>
+      </div>
+    </li>
+        <li data-product_id="21" class="col-xs-6 col-sm-3 col-md-3 col-lg-3">
+      <p class="pic">
+                  <a href="/ao-khoac-nam/ao-khoac-nam-bong-chay-in-chu-xc-21 ">
+            <img src="http://roshop.com/uploads/thumb/thumb300x400_147082230000_ao-khoac-nam-bong-chay-in-chu-xc.JPG">
+          </a>
+                </p>
+      <div class="desc clearfix">
+        <p class="title">
+          <a href="/ao-khoac-nam/ao-khoac-nam-bong-chay-in-chu-xc-21 ">Áo Khoác Nam Bóng Chày In Chữ XC          </a>
+        </p>
+        <div class="price-block clearfix">
+          <p class="price">499,000đ
+          </p>
+        </div>
+      </div>
+    </li>
+        <li data-product_id="20" class="col-xs-6 col-sm-3 col-md-3 col-lg-3">
+      <p class="pic">
+                  <a href="/ao-khoac-nam/ao-khoac-jean-nam-rach-20 ">
+            <img src="http://roshop.com/uploads/thumb/thumb300x400_147082217300_ao-khoac-jean-nam-rach.jpg">
+          </a>
+                </p>
+      <div class="desc clearfix">
+        <p class="title">
+          <a href="/ao-khoac-nam/ao-khoac-jean-nam-rach-20 ">Áo Khoác Jean Nam Rách          </a>
+        </p>
+        <div class="price-block clearfix">
+          <p class="price">529,000đ
+          </p>
+        </div>
+      </div>
+    </li>
+        <li data-product_id="19" class="col-xs-6 col-sm-3 col-md-3 col-lg-3">
+      <p class="pic">
+                  <a href="/ao-thun-nam/ao-form-dai-phoi-tui-unisex-19 ">
+            <img src="http://roshop.com/uploads/thumb/thumb300x400_147082202400_ao-form-dai-phoi-tui-unisex.jpg">
+          </a>
+                </p>
+      <div class="desc clearfix">
+        <p class="title">
+          <a href="/ao-thun-nam/ao-form-dai-phoi-tui-unisex-19 ">Áo Form Dài Phối Túi Unisex          </a>
+        </p>
+        <div class="price-block clearfix">
+          <p class="price">339,000đ
+          </p>
+        </div>
+      </div>
+    </li>
+        <li data-product_id="18" class="col-xs-6 col-sm-3 col-md-3 col-lg-3">
+      <p class="pic">
+                  <a href="/ao-khoac-nam/ao-khoac-da-nam-phoi-bo-thun-18 ">
+            <img src="http://roshop.com/uploads/thumb/thumb300x400_147082176600_ao-khoac-da-nam-phoi-bo-thun.JPG">
+          </a>
+                </p>
+      <div class="desc clearfix">
+        <p class="title">
+          <a href="/ao-khoac-nam/ao-khoac-da-nam-phoi-bo-thun-18 ">Áo Khoác Da Nam Phối Bo Thun          </a>
+        </p>
+        <div class="price-block clearfix">
+          <p class="price">645,000đ
+          </p>
+        </div>
+      </div>
+    </li>
+      </ul>
+</div>
+<!-- /item-list -->
+<h2 class="title-block pink">
+  <a href="#">Thời Trang Nữ
+  </a>
+</h2>
+<div class="item-list">
+  <ul class="clearfix lp" data-list="home category 2">
+        <li data-product_id="33" class="col-xs-6 col-sm-3 col-md-3 col-lg-3">
+      <p class="pic">
+                  <a href="/ao-thun-nu/ao-thun-tron-co-tim-33 ">
+            <img src="http://roshop.com/uploads/thumb/thumb300x400_147161261300_ao-thun-tron-co-tim.jpg">
+          </a>
+                </p>
+      <div class="desc clearfix">
+        <p class="title">
+          <a href="/ao-thun-nu/ao-thun-tron-co-tim-33 ">Áo Thun Trơn Cổ Tim          </a>
+        </p>
+        <div class="price-block clearfix">
+          <p class="price">350,000đ
+          </p>
+        </div>
+      </div>
+    </li>
+        <li data-product_id="32" class="col-xs-6 col-sm-3 col-md-3 col-lg-3">
+      <p class="pic">
+                  <a href="/vay-dam/dam-xoe-co-dap-cheo-32 ">
+            <img src="http://roshop.com/uploads/thumb/thumb300x400_147161225500_dam-xoe-phoi-bo-eo-cach-dieu-giup-tao-diem-nhan-an-tuong-mang-lai-ve-nu-tinh-quyen-ru-cho-ban-nu.jpg  ">
+          </a>
+                </p>
+      <div class="desc clearfix">
+        <p class="title">
+          <a href="/vay-dam/dam-xoe-co-dap-cheo-32 ">Đầm Xòe Cổ Đắp Chéo          </a>
+        </p>
+        <div class="price-block clearfix">
+          <p class="price">560,000đ
+          </p>
+        </div>
+      </div>
+    </li>
+        <li data-product_id="31" class="col-xs-6 col-sm-3 col-md-3 col-lg-3">
+      <p class="pic">
+                  <a href="/vay-dam/dam-xoe-cut-out-vai-31 ">
+            <img src="http://roshop.com/uploads/thumb/thumb300x400_147161208100_dam-xoe-cut-out-vai.jpg">
+          </a>
+                </p>
+      <div class="desc clearfix">
+        <p class="title">
+          <a href="/vay-dam/dam-xoe-cut-out-vai-31 ">Đầm Xòe Cut Out Vai          </a>
+        </p>
+        <div class="price-block clearfix">
+          <p class="price">269,000đ
+          </p>
+        </div>
+      </div>
+    </li>
+        <li data-product_id="30" class="col-xs-6 col-sm-3 col-md-3 col-lg-3">
+      <p class="pic">
+                  <a href="/ao-kieu-nu/ao-ren-tay-sat-canh-30 ">
+            <img src="http://roshop.com/uploads/thumb/thumb300x400_147082333600_ao-ren-tay-sat-canh.jpg ">
+          </a>
+                </p>
+      <div class="desc clearfix">
+        <p class="title">
+          <a href="/ao-kieu-nu/ao-ren-tay-sat-canh-30 ">Áo Ren Tay Sát Cánh          </a>
+        </p>
+        <div class="price-block clearfix">
+          <p class="price">235,000đ
+          </p>
+        </div>
+      </div>
+    </li>
+        <li data-product_id="29" class="col-xs-6 col-sm-3 col-md-3 col-lg-3">
+      <p class="pic">
+                  <a href="/ao-kieu-nu/ao-peplum-phoi-luoi-29 ">
+            <img src="http://roshop.com/uploads/thumb/thumb300x400_147082320400_ao-peplum-phoi-luoi.jpg  ">
+          </a>
+                </p>
+      <div class="desc clearfix">
+        <p class="title">
+          <a href="/ao-kieu-nu/ao-peplum-phoi-luoi-29 ">Áo Peplum Phối Lưới          </a>
+        </p>
+        <div class="price-block clearfix">
+          <p class="price">325,000đ
+          </p>
+        </div>
+      </div>
+    </li>
+        <li data-product_id="28" class="col-xs-6 col-sm-3 col-md-3 col-lg-3">
+      <p class="pic">
+                  <a href="/ao-khoac-nu/ao-khoac-form-dai-phoi-caro-28 ">
+            <img src="http://roshop.com/uploads/thumb/thumb300x400_147082309600_ao-khoac-form-dai-phoi-caro.jpg ">
+          </a>
+                </p>
+      <div class="desc clearfix">
+        <p class="title">
+          <a href="/ao-khoac-nu/ao-khoac-form-dai-phoi-caro-28 ">Áo Khoác Form Dài Phối Caro          </a>
+        </p>
+        <div class="price-block clearfix">
+          <p class="price">249,000đ
+          </p>
+        </div>
+      </div>
+    </li>
+        <li data-product_id="27" class="col-xs-6 col-sm-3 col-md-3 col-lg-3">
+      <p class="pic">
+                  <a href="/ao-kieu-nu/ao-croptop-sac-mau-27 ">
+            <img src="http://roshop.com/uploads/thumb/thumb300x400_147082299100_ao-croptop-sac-mau.jpg ">
+          </a>
+                </p>
+      <div class="desc clearfix">
+        <p class="title">
+          <a href="/ao-kieu-nu/ao-croptop-sac-mau-27 ">Áo Croptop Sắc Màu          </a>
+        </p>
+        <div class="price-block clearfix">
+          <p class="price">250,000đ
+          </p>
+        </div>
+      </div>
+    </li>
+        <li data-product_id="26" class="col-xs-6 col-sm-3 col-md-3 col-lg-3">
+      <p class="pic">
+                  <a href="/ao-kieu-nu/ao-croptop-ren-2-day-26 ">
+            <img src="http://roshop.com/uploads/thumb/thumb300x400_147082289500_ao-croptop-ren-2-day.jpg ">
+          </a>
+                </p>
+      <div class="desc clearfix">
+        <p class="title">
+          <a href="/ao-kieu-nu/ao-croptop-ren-2-day-26 ">Áo croptop ren 2 dây          </a>
+        </p>
+        <div class="price-block clearfix">
+          <p class="price">249,000đ
+          </p>
+        </div>
+      </div>
+    </li>
+      </ul>
+</div>
+<!-- /item-list -->
+<!-- /item-slider -->
+<div class="line">
+</div>
+<ul class="step-shipping clearfix">
+  <li class="step1">
+    <span class="ico">
+    </span>
+    <div class="desc">
+      <h2>Luôn có hàng mới
+      </h2>
+      <p>Sản phẩm cực chất
+        <br />mẫu mã đa dạng, cập nhật liên tục
+      </p>
+    </div>
+  </li>
+  <li class="step2">
+    <span class="ico">
+    </span>
+    <div class="desc">
+      <h2>Giao Hàng Cấp Tốc
+      </h2>
+      <p>Sản phẩm được đóng gói cẩn thận 
+        <br />giao đến bạn trong vòng 3h
+      </p>
+    </div>
+  </li>
+  <li class="step3">
+    <span class="ico">
+    </span>
+    <div class="desc">
+      <h2>Đổi trả miễn phí
+      </h2>
+      <p>Đổi trả hàng miễn phí trong vòng 14 ngày
+      </p>
+    </div>
+  </li>
+</ul>
+      </div>
+      <!--Popup Cart-->
+      <div id="cart-empty-modal" class="_modal">
+        <div class="_header">
+          <a href="#" class="btn-close" onclick="$('#cart-empty-modal').dialog('close');">
+            <i class="fa fa-close"></i>
+          </a>
+        </div>
+        <div class="_content clearfix">
+          <div class="cart"></div>
+          <h1>Giỏ hàng hiện tại của bạn đang trống</h1>
+          <p>Hãy nhanh tay sở hữu những sản phẩm thời trang và phụ kiện mới cập nhật nào !</p>
+          <div class="link">
+            <ul>
+              <li><a href="#">Thời trang nam</a></li>
+              <li><a href="#">Thời trang nữ</a></li>
+              <li><a href="#">Hàng hot</a></li>
+              <li><a href="#">Hàng khuyến mãi</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="_footer">
+          <a href="#">Về trang chủ</a>
+        </div>
+      </div>
+      <!--END Popup Cart-->
+    </section>
+    <footer class="footer">
+  <div class="block1">
+    <div class="container">
+      <ul class="list clearfix">
+        <li class="col-sm-12 col-md-6 col-lg-6">
+          <ul>
+            <li class="col-sm-6 col-md-6 col-lg-6">
+              <h2>Giới thiệu
+              </h2>
+              <div class="lnks">
+                <a href="/thong-tin/gioi-thieu-roshop">Giới thiệu về Roshop
+                </a>
+                <a href="/thong-tin/tai-sao-chon-chung-toi">Tại sao chọn chúng tôi
+                </a>
+                <a href="/thong-tin/quyen-rieng-tu">Quyền riêng tư
+                </a>
+                <a href="/thong-tin/chinh-sach-bao-mat">Chính sách bảo mật
+                </a>
+                <a href="/thong-tin/lien-he">Liên hệ
+                </a>
+              </div>
+            </li>
+            <li class="col-sm-6 col-md-6 col-lg-6">
+              <h2>Chăm sóc khách hàng
+              </h2>
+              <div class="lnks">
+                <a href="/thong-tin/huong-dan-dat-hang">Hướng dẫn đặt hàng
+                </a>
+                <a href="/thong-tin/chinh-sach-giao-nhan">Chính sách giao nhận
+                </a>
+                <a href="/thong-tin/chinh-sach-doi-tra">Chính sách đổi trả
+                </a>
+                <a href="/thong-tin/phi-van-chuyen">Phí vận chuyển
+                </a>
+              </div>
+            </li>
+          </ul>
+        </li>
+        <li class="col-sm-12 col-md-6 col-lg-6">
+          <ul>
+            <li class="col-sm-6 col-md-6 col-lg-6">
+              <h2>Đăng ký nhận tin KM
+              </h2>
+              <div class="lnks">
+                <form id="subscriber" action="" method="post">
+                  <input type="text" name="email" placeholder="Email của bạn">
+                  <input type="hidden" name="gender">
+                </form>
+                <div class="btns clearfix">
+                  <p class="btn1">
+                    <a href="javascript:void(0)" onclick="subscribe(1)">Nam
+                    </a>
+                  </p>
+                  <p class="btn2">
+                    <a href="javascript:void(0)" onclick="subscribe(0)">Nữ
+                    </a>
+                  </p>
+                </div>
+              </div>
+              <h2>Kết nối với chúng tôi tại
+              </h2>
+              <ul class="social-list clearfix">
+                <li class="fb">
+                  <a href="#">facebook
+                  </a>
+                </li>
+                <li class="gg">
+                  <a href="#">google plus
+                  </a>
+                </li>
+              </ul>
+            </li>
+            <li class="col-sm-6 col-md-6 col-lg-6">
+              <h2>Thông tin liên hệ
+              </h2>
+              <div class="lnks">
+                <h3>MAZA-FAKE Quang Trung
+                </h3>
+                <p>
+                  999 Quang Trung, Phường 8, Quận Gò Vấp, TP.HCM 
+                  <br />
+                  Hotline: 0999 99 9999
+                </p>
+              </div>
+              <div class="lnks mt22">
+                <h3>Trung tâm CSKH
+                </h3>
+                <p>
+                  99 đường 99, Phường 99, Quận 9, TP.HCM 
+                  <br />
+                  Hotline: 08 8888 9999
+                </p>
+              </div>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <p class="desc-box">
+        MAZA-FAKE.vn là website chuyên cung cấp các sản phẩm thời trang độc đáo nhất với giá cả hợp lý nhất. Chúng tôi tự tin rằng MAZA luôn bắt nhịp kịp với những phong cách thời trang hàng đầu châu Á và thế giới, đáp ứng đầy đủ nhu cầu mua sắm của các khách hàng: từ những bộ áo ngủ thoải mái dễ chịu, đến những trang phục đi học đi chơi năng động trẻ trung, hay váy đầm công sở lịch sự, trang nhã… Với phong cách phục vụ chuyên nghiệp và tận tình, MAZA-FAKE.vn chắc chắn sẽ mang lại cho bạn trải nghiệm mua sắm trực tuyến thoải mái nhất.
+      </p>
+    </div>
+  </div>
+  <div class="block2">
+    <div class="container clearfix">
+      <h2 class="logo">
+        <a href="/">
+          <img src="http://roshop.com/library_add/home/static/images/logo/logo.png">
+        </a>
+      </h2>
+      <div class="info">
+        <p>
+          &copy; Website Được Xây Dựng Dựa Trên : Maza.vn
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="line-block">
+  </div>
+</footer>
+<!-- /footer --> 
+    <div id="inline-error"></div>
+    <div id="temp"></div>
+    <!-- Block JS Page -->
+    <script type="text/javascript" src="http://roshop.com/library_add/home/static/js/ec.js">
+</script>
+<script type="text/javascript" src="http://roshop.com/library_add/home/static/js/lang.js"></script>
+<script type="text/javascript" src="http://roshop.com/library_add/home/static/js/jquery.js">
+</script>
+<script type="text/javascript" src="http://roshop.com/library_add/home/static/js/jquery-ui.js">
+</script>
+<script type="text/javascript" src="http://roshop.com/library_add/home/static/js/bootstrap-datepicker.js">
+</script>
+<script type="text/javascript" src="http://roshop.com/library_add/home/static/js/maza.js">
+</script>
+<script type="text/javascript" src="http://roshop.com/library_add/home/static/js/jquery.jcarousel.min.js">
+</script>
+<script type="text/javascript" src="http://roshop.com/library_add/home/static/js/jcarousel.responsive.js">
+</script>
+<script type="text/javascript" src="http://roshop.com/library_add/home/static/js/jcarousel.connected-carousels.js">
+</script>
+<script type="text/javascript" src="http://roshop.com/library_add/home/static/js/tab.js">
+</script>
+<script type="text/javascript" src="http://roshop.com/library_add/home/static/js/jquery.tinyscrollbar.min.js">
+</script>
+<script type="text/javascript" src="http://roshop.com/library_add/home/static/js/custom.js">
+</script>
+<script type="text/javascript" src="http://roshop.com/library_add/home/static/js/modal.js">
+</script>
+<script type="text/javascript" src="http://roshop.com/library_add/home/static/js/custom-jquery.js">
+</script>
+<!--Product detail-->
+<script type="text/javascript" src="http://roshop.com/library_add/home/static/zoom/Event.js">
+</script>
+<script type="text/javascript" src="http://roshop.com/library_add/home/static/zoom/Magnifier.js">
+</script>
+  </body>
+</html>

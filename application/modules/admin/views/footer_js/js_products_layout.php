@@ -1,0 +1,2 @@
+<script src="<?php echo base_url();?>library_add/admin/plugins/colorpicker/js/bootstrap-colorpicker.js"></script>
+<script src="<?php echo base_url();?>library_add/admin/products/js_products.js"></script>

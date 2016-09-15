@@ -1,0 +1,2 @@
+<link rel="stylesheet" href="<?php echo base_url();?>library_add/admin/plugins/colorpicker/css/colorpicker.css" />
+<link rel="stylesheet" href="<?php echo base_url();?>library_add/admin/products/style_products.css" />

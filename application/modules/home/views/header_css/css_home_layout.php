@@ -1,0 +1,9 @@
+<link rel="stylesheet" type="text/css" href="<?php echo base_url() ;?>library_add/home/static/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="<?php echo base_url() ;?>library_add/home/static/css/maza.css">
+<link rel="stylesheet" type="text/css" href="<?php echo base_url() ;?>library_add/home/static/css/jquery.notifyBar.css">
+<link rel="stylesheet" type="text/css" href="<?php echo base_url() ;?>library_add/home/static/css/datepicker.css">
+<link rel="stylesheet" type="text/css" href="<?php echo base_url() ;?>library_add/home/static/css/jquery-confirm.css">
+<link rel="stylesheet" type="text/css" href="<?php echo base_url() ;?>library_add/home/static/css/jquery-ui.css">
+<link rel="stylesheet" type="text/css" href="<?php echo base_url() ;?>library_add/home/static/css/jquery.comiseo.daterangepicker.css">
+<link rel="stylesheet" type="text/css" href="<?php echo base_url() ;?>library_add/home/static/css/custom.css">
+<link rel="stylesheet" type="text/css" href="<?php echo base_url() ;?>library_add/home/static/zoom/magnifier.css">

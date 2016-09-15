@@ -1,0 +1,122 @@
+.div-input-price-add{
+	width: 65%;
+	margin-right: 5%;
+	float:left;
+}
+.div-select-price-add{
+	width: 30%;
+	float:right;
+}
+.add-color , .add-image{
+	padding: 0px 4px;
+    max-height: 10px;
+    margin-left: 10px;
+    background: green;
+    border: 1px solid green;
+    color: #fff;
+    cursor: pointer;
+}
+.box-color{
+    display: inline-block;
+}
+.btn-remove-color{
+    display: block;
+    text-align: center;
+    cursor: pointer;
+    font-weight: bold;
+    color:green;
+    font-size: 18px;
+}
+.padding-cus{
+	margin-right: 4px;
+}
+.input-block-color{
+	width: 30px;
+	height: 30px;
+	display: inline-block;
+	border: 1px solid #999;
+	color: transparent;
+	cursor: pointer;
+	border-radius: 2px;
+    position: relative;
+}
+.box_img{
+	display: inline-block;
+	float:left;
+	margin-right:5px;
+}
+/*----------Upload multi Image + Show image browser-----------*/
+.uploadimg
+{
+    width:62px;
+    height:62px;
+    border:1px solid #ccc;
+    position:relative;
+    text-align: center;
+    padding:1px;
+    background-color:white;
+   
+}
+.uploadimg img{
+    height:58px;
+    width: 58px;
+    display:block
+}
+.uploadimg:hover
+{
+    border:1px solid #999;
+    cursor:pointer;
+}
+.box_img{
+    position: relative;
+}
+.btn-remove{
+    font-size:18px;
+    position:absolute;
+    top:3px;
+    right:4px;
+    z-index:10;
+    background-color: #fff;
+    color: green;
+    cursor: pointer;
+    /*border-radius:3px;*/
+    font-weight: bold;
+    line-height:normal;
+    padding:0px 5px 0px 3px;
+    display:none;
+}
+.btn-remove:hover{
+    color:#000;
+}
+.uploadimg,.uploadimg img{
+     border-radius:3px;
+    -webkit-border-radius:3px;
+    -o-border-radius:3px;
+    -moz-border-radius:3px;
+    -ms-border-radius:3px;
+}
+.hide{
+  display:none;
+}
+.block{
+  display:block;
+}
+.in-block{
+  display:inline-block;
+}
+label{
+  display:block;
+}
+/*----------END Upload multi Image + Show image browser-----------*/
+/*----------*/
+@media(min-width: 991px){
+	.div-select-hot , .div-select-type-gender , .div-select-status , .div-select-old-new{
+		width: 24%;
+		margin-right: 1%;
+		float: left;
+	}
+	.div-select-old-new{
+		width: 25% !important;
+		margin-right: 0 !important;
+	}
+}
